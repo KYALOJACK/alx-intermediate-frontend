@@ -1,0 +1,9 @@
+1. Checked if Node.js and npm are installed:
+   node -v
+   npm -v
+
+2. Installed Sass globally using npm:
+   npm install -g sass
+
+3. Confirmed Sass was installed:
+   sass --version
