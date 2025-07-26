@@ -1,0 +1,9 @@
+# Steps to install SASS on Windows
+
+1. Opened terminal and navigated to the 0x03-sass_scss directory.
+2. Verified that Node.js and npm are installed using: node -v and npm -v
+3. Installed SASS locally using:
+   - npm install sass@3.7.4
+   (If version 3.7.4 failed, installed latest using: npm install sass)
+4. Confirmed the installation using:
+   - npx sass --version
